@@ -5,5 +5,5 @@ My First Data Analytics project to hone my skills.
 
 # Acknowledgments
 Thank you.
-NBA_API - https://github.com/swar 
+NBA_API - https://github.com/swar <br>
 Shotchart - https://github.com/hkair/nba-shotcharts 
